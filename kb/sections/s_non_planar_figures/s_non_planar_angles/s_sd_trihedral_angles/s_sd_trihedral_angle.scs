@@ -1,9 +1,9 @@
-s_sd_squares
+s_sd_trihedral_angles
 => nrel_main_idtf:
-	[Раздел. Непланарный угол. Трехгранный угол.]
+	[Раздел. Непланарный угол. Трехгранный угол]
 	(* <- lang_ru;; *);
 => nrel_main_idtf:
-	[Section. Nonplanar angle. Trihedral angle]
+	[Section. Non planar angle. Trihedral angle]
 	(* <- lang_en;; *);
 
 <= nrel_sc_text_translation:
@@ -22,7 +22,7 @@ s_sd_squares
 	<= nrel_sc_text_translation:
 		...
 		(*
-		-> rrel_example:[В данном разделе рассматриваются трехгранные углы.]
+		-> rrel_example:[В данном разделе рассматриваются основные понятия трехгранных углов.]
 			(* <- lang_ru;; *);;
 		*);;
 	*);;

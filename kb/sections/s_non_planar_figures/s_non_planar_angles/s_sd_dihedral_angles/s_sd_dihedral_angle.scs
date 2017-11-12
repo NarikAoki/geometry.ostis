@@ -1,9 +1,9 @@
-s_sd_squares
+s_sd_dihedral_angles
 => nrel_main_idtf:
-	[Раздел. Непланарный угол. Двугранный угол.]
+	[Раздел. Непланарный угол. Двугранный угол]
 	(* <- lang_ru;; *);
 => nrel_main_idtf:
-	[Section. Nonplanar angle. Dihedral angle]
+	[Section. Non planar angle. Dihedral angle]
 	(* <- lang_en;; *);
 
 <= nrel_sc_text_translation:
@@ -22,7 +22,7 @@ s_sd_squares
 	<= nrel_sc_text_translation:
 		...
 		(*
-		-> rrel_example:[В данном разделе рассматриваются двугранные углы.]
+		-> rrel_example:[В данном разделе рассматриваются основные понятия двугранных углов.]
 			(* <- lang_ru;; *);;
 		*);;
 	*);;
