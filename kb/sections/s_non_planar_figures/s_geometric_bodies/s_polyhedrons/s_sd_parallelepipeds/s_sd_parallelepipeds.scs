@@ -1,9 +1,9 @@
 s_sd_parallelepipeds
 => nrel_main_idtf:
-	[Раздел. Параллелепипед]
+	[Раздел. Предметная область параллелепипедов]
 	(* <- lang_ru;; *);
 => nrel_main_idtf:
-	[Section. Parallelepiped]
+	[Section. Subject domain of parallelepipeds]
 	(* <- lang_en;; *);
 
 <= nrel_sc_text_translation:
@@ -22,7 +22,7 @@ s_sd_parallelepipeds
 	<= nrel_sc_text_translation:
 		...
 		(*
-		-> rrel_example:[В данном разделе рассматриваются основные понятия параллелепипедов.]
+		-> rrel_example:[В данном разделе рассматриваются основные понятия и свойства параллелепипедов.]
 			(* <- lang_ru;; *);;
 		*);;
 	*);;

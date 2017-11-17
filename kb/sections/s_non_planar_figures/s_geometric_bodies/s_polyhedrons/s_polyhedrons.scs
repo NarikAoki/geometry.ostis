@@ -22,7 +22,7 @@ s_polyhedrons
 			s_sd_parallelepipeds;;
 		*);
 
-		s_sd_of_parallelepipeds
+		s_sd_parallelepipeds
 		(*
 		=> nrel_section_base_order: 
 			s_pyramids;;

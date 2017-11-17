@@ -1,9 +1,9 @@
 s_sd_cylinders
 => nrel_main_idtf:
-	[Раздел. Цилиндр]
+	[Раздел. Предметная область цилиндров]
 	(* <- lang_ru;; *);
 => nrel_main_idtf:
-	[Section. Cylinder]
+	[Section. Subject domain of cylinders]
 	(* <- lang_en;; *);
 
 <= nrel_sc_text_translation:
@@ -22,7 +22,7 @@ s_sd_cylinders
 	<= nrel_sc_text_translation:
 		...
 		(*
-		-> rrel_example:[В данном разделе рассматриваются основные понятия цилиндров.]
+		-> rrel_example:[В данном разделе рассматриваются основные понятия и свойства цилиндров.]
 			(* <- lang_ru;; *);;
 		*);;
 	*);;

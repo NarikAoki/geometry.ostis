@@ -1,9 +1,9 @@
 s_sd_truncated_cones
 => nrel_main_idtf:
-	[Раздел. Конус. Усеченный конус]
+	[Раздел. Предметная область усеченных конусов]
 	(* <- lang_ru;; *);
 => nrel_main_idtf:
-	[Section. Cone. Truncated cone]
+	[Section. Subject domain of truncated cones]
 	(* <- lang_en;; *);
 
 <= nrel_sc_text_translation:
@@ -22,7 +22,7 @@ s_sd_truncated_cones
 	<= nrel_sc_text_translation:
 		...
 		(*
-		-> rrel_example:[В данном разделе рассматриваются основные понятия усеченных конусов.]
+		-> rrel_example:[В данном разделе рассматриваются основные понятия и свойства усеченных конусов.]
 			(* <- lang_ru;; *);;
 		*);;
 	*);;

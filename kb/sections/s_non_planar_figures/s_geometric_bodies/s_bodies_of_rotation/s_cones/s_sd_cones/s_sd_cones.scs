@@ -1,9 +1,9 @@
 s_sd_cones
 => nrel_main_idtf:
-	[Раздел. Конус]
+	[Раздел. Предметная область конусов]
 	(* <- lang_ru;; *);
 => nrel_main_idtf:
-	[Section. Cone]
+	[Section. Subject domain of cones]
 	(* <- lang_en;; *);
 
 <= nrel_sc_text_translation:
@@ -22,7 +22,7 @@ s_sd_cones
 	<= nrel_sc_text_translation:
 		...
 		(*
-		-> rrel_example:[В данном разделе рассматриваются основные понятия конусов.]
+		-> rrel_example:[В данном разделе рассматриваются основные понятия и свойства конусов.]
 			(* <- lang_ru;; *);;
 		*);;
 	*);;
