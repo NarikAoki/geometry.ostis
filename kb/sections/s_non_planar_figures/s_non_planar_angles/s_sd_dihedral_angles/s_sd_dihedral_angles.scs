@@ -1,16 +1,16 @@
 s_sd_dihedral_angles
 => nrel_main_idtf:
-	[Раздел. Непланарный угол. Двугранный угол]
+	[Раздел. Предметная область двугранных углов]
 	(* <- lang_ru;; *);
 => nrel_main_idtf:
-	[Section. Non planar angle. Dihedral angle]
+	[Section. Subject domain of dihedral angles]
 	(* <- lang_en;; *);
 
 <= nrel_sc_text_translation:
 	...
 	(*
 	-> rrel_example:
-		"file://html/s_sd_dihedral_angle_ru.html"
+		"file://html/s_sd_dihedral_angles_ru.html"
 		(* <- lang_ru;; *);;
 	*);
 
