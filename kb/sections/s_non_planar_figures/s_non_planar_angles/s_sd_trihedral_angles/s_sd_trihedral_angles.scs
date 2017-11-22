@@ -1,6 +1,6 @@
 s_sd_trihedral_angles
 => nrel_main_idtf:
-	[Раздел. Предметная область двугранных углов]
+	[Раздел. Предметная область трехгранных углов]
 	(* <- lang_ru;; *);
 => nrel_main_idtf:
 	[Section. Subject domain of trihedral angles]
